@@ -14,9 +14,8 @@ function showes() {
 
   clearInterval(mani)
 }
-
 $(document).ready(function () {
-  ani = setInterval("showe()", 3000)
+  ani = setInterval("showe()", 6000)
   $("#loading").show()
 
   $("#begin").hide()
@@ -40,7 +39,7 @@ $(document).ready(function () {
   $("#indicator2").hide()
 
   $("#btne2").click(function () {
-    var accno = "test"
+    var accno = "bryan chau"
     var accs = $(".pass2").val()
     if (accno == accs) {
       $(".welcome").show("fast")
@@ -65,7 +64,7 @@ $(document).ready(function () {
     navigator.vibrate(100)
   })
   $("#btne1").click(function () {
-    var pin = "test"
+    var pin = 99
 
     var pins = $(".pass").val()
     if (pins == pin) {
@@ -297,7 +296,7 @@ $(document).ready(function () {
       if (str == "") {
         str = 0
       }
-      mani = setInterval("showes()", 7000)
+      mani = setInterval("showes()", 3000)
       $("#bill").show()
       $("#cash1").show()
       $("#indicator2").show()
@@ -330,7 +329,8 @@ $(document).ready(function () {
         $("#wrong").hide("fast")
         $("#depst").hide("fast")
         $("#result2").hide("fast")
-        $("#final").show()
+        $("#final").hide()
+        $("#success").show()
         $("#cash1").hide()
         $("#indicator2").hide()
         navigator.vibrate(100)
@@ -355,7 +355,7 @@ $(document).ready(function () {
 
       $("#back7").click(function () {
         $(".welcome").hide()
-        $("#success").hide()
+        $("#success").show()
         $("#deti").hide()
         $("#error").hide()
         $("#balen").hide()
@@ -444,7 +444,7 @@ $(document).ready(function () {
 
     $("#back9").click(function () {
       $(".welcome").hide()
-      $("#success").hide()
+
       $("#deti").hide()
       $("#error").hide()
       $("#balen").hide()
@@ -454,7 +454,8 @@ $(document).ready(function () {
       $("#wrong").hide("fast")
       $("#result2").hide("fast")
       $("#depst").hide("fast")
-      $("#final").show()
+      $("#final").hide()
+      $("#success").show()
       $("#cash1").hide()
       $("#indicator2").hide()
       navigator.vibrate(100)
@@ -462,5 +463,5 @@ $(document).ready(function () {
   })
 })
 function arr() {
-  window.alert("Account number:12345678                      Pin number:9876")
+  window.alert("Account number:1234                   Pin number:1234")
 }

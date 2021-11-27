@@ -75,18 +75,24 @@
 
                         <p class="well1"> Welcome to 2 MEN Bank </p>
                         <p class="well2">enter your DEMO Account no</p>
-                        <input type="text" class="pass2" maxlength="8">
-                        <button id="btne2">Submit</button><br>
-                        <button id="btne3"><a style="text-decoration: none;" href="loading.html">fingerprint </a>
+                        <input type="text" class="pass2" maxlength="15">
+                        <button id="btne2" disabled="disabled">Log in</button><br>
+                        <button id="btne3"><a target="_blank" style="text-decoration: none;"
+                                href="loading.html">fingerprint </a>
                         </button>
                     </div>
+                    <script type='text/javascript'>
+                        setTimeout(function () {
+                            document.getElementById('btne2').disabled = false;
+                        }, 12000);
+                    </script>
                     <div></div>
                     <div id="all">
 
                         <div class="welcome">
                             <p class="well8">Welcome Bryan & Binh !!</p>
                             <p class="well2">Please enter your password</p>
-                            <input type="password" class="pass" maxlength="4">
+                            <input type="password" class="pass" maxlength="15">
                             <button id="btne1">Submit</button>
 
                         </div>
