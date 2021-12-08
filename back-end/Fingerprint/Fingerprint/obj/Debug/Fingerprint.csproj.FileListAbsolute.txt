@@ -1,0 +1,13 @@
+C:\Users\lehad\source\repos\Fingerprint\Fingerprint\bin\Debug\Fingerprint.exe.config
+C:\Users\lehad\source\repos\Fingerprint\Fingerprint\bin\Debug\Fingerprint.exe
+C:\Users\lehad\source\repos\Fingerprint\Fingerprint\bin\Debug\Fingerprint.pdb
+C:\Users\lehad\source\repos\Fingerprint\Fingerprint\obj\Debug\Fingerprint.csprojAssemblyReference.cache
+C:\Users\lehad\source\repos\Fingerprint\Fingerprint\obj\Debug\Fingerprint.Form1.resources
+C:\Users\lehad\source\repos\Fingerprint\Fingerprint\obj\Debug\Fingerprint.Properties.Resources.resources
+C:\Users\lehad\source\repos\Fingerprint\Fingerprint\obj\Debug\Fingerprint.csproj.GenerateResource.cache
+C:\Users\lehad\source\repos\Fingerprint\Fingerprint\obj\Debug\Fingerprint.csproj.CoreCompileInputs.cache
+C:\Users\lehad\source\repos\Fingerprint\Fingerprint\obj\Debug\Fingerprint.exe
+C:\Users\lehad\source\repos\Fingerprint\Fingerprint\obj\Debug\Fingerprint.pdb
+C:\Users\lehad\source\repos\Fingerprint\Fingerprint\bin\Debug\EntityFramework.dll
+C:\Users\lehad\source\repos\Fingerprint\Fingerprint\bin\Debug\EntityFramework.xml
+C:\Users\lehad\source\repos\Fingerprint\Fingerprint\obj\Debug\Fingerprint.csproj.CopyComplete

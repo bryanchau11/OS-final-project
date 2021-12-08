@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="finger_printModelStoreContainer" CdmEntityContainer="finger_printEntities">
+    <EntitySetMapping Name="Persons">
+      <EntityTypeMapping TypeName="finger_printModel.Person">
+        <MappingFragment StoreEntitySet="Persons">
+          <ScalarProperty Name="fingerID" ColumnName="fingerID" />
+          <ScalarProperty Name="personName" ColumnName="personName" />
+          <ScalarProperty Name="personID" ColumnName="personID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
