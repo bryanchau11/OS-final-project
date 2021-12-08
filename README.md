@@ -2,16 +2,16 @@
 
 # DEMO
 
-[https://www.youtube.com/watch?v=EFHIkIr23Xk]
-
+Youtube Link: [https://www.youtube.com/watch?v=EFHIkIr23Xk]
+PowerPoint Slide: [https://docs.google.com/presentation/d/1shbw6KdFgQj9YeFuXxjiHB8RbVqU5Wsz43hfrUN0tXg/edit?usp=sharing]
 1. Order products
 
-   - https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/ref=sr_1_5?keywords=flashtree+FPM11A+Green+Light+Optical+Fingerprint+Reader+Sensor+Module+6+Pins+for+Arduino+Mega2560+UNO+R3&qid=1638750881&s=electronics&sr=1-5
-   - https://www.amazon.com/FlashTree-Optical-Fingerprint-Arduino-Mega2560/dp/B07G6L7YDX/ref=sr_1_2?keywords=flashtree+FPM11A+Green+Light+Optical+Fingerprint+Reader+Sensor+Module+6+Pins+for+Arduino+Mega2560+UNO+R3&qid=1638750988&s=electronics&sr=1-2
+   - [https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/ref=sr_1_5?keywords=flashtree+FPM11A+Green+Light+Optical+Fingerprint+Reader+Sensor+Module+6+Pins+for+Arduino+Mega2560+UNO+R3&qid=1638750881&s=electronics&sr=1-5]
+   - [https://www.amazon.com/FlashTree-Optical-Fingerprint-Arduino-Mega2560/dp/B07G6L7YDX/ref=sr_1_2?keywords=flashtree+FPM11A+Green+Light+Optical+Fingerprint+Reader+Sensor+Module+6+Pins+for+Arduino+Mega2560+UNO+R3&qid=1638750988&s=electronics&sr=1-2]
 
 2. Using Arduino 1.8.16 to register fingerprint
 
-   - Download Arduino 1.8.16 at https://www.arduino.cc/en/software
+   - Download Arduino 1.8.16 at [https://www.arduino.cc/en/software]
    - Connect the board to the personal computer via the USB port
    - Extract arduino-1.8.16-windows.zip and double-click to arduino.exe
 
